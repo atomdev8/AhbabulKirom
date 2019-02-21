@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ahbabul Kirom</string>
+    <string name="config_title">OPTIONS</string>
+    <string name="btn_play">PLAY</string>
+    <string name="config_sound">Background music and sound effects</string>
+    <string name="time">Time:</string>
+    <string name="best_time">Waktu Terbaik Menyelesaikan Puzzle Kaligrafi:</string>
+    <string name="result_tap">Tekan Dimana Saja Untuk Melanjutkan</string>
+    <string name="completed">COMPLETED</string>
+    <string name="faq">Tekan Kotak Untuk Memutar Pada Foto</string>
+    <string name="select">Geser Untuk Memilih Gambar Lain</string>
+    <string name="mode">Game mode</string>
+</resources>
